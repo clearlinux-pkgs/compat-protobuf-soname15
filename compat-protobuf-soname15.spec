@@ -4,7 +4,7 @@
 #
 Name     : compat-protobuf-soname15
 Version  : 3.5.1
-Release  : 2
+Release  : 3
 URL      : https://github.com/google/protobuf/archive/v3.5.1.tar.gz
 Source0  : https://github.com/google/protobuf/archive/v3.5.1.tar.gz
 Summary  : Google's Data Interchange Format
