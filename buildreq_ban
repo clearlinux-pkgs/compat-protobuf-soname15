@@ -1,2 +1,12 @@
 # This file contains build requirements that get picked up but are
 # undesirable. One entry per line, no whitespace.
+apache-maven
+buildreq-cmake
+buildreq-distutils3
+buildreq-golang
+buildreq-mvn
+buildreq-php
+python-dev
+python3-dev
+setuptools
+six
